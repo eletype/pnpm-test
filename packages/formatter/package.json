@@ -1,0 +1,16 @@
+{
+    "name": "formatter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "format-number": "^3.0.0",
+        "date-format": "file:../date-format",
+        "money-format": "file:../money-format"
+    }
+}

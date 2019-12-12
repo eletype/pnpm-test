@@ -1,0 +1,9 @@
+service: format
+
+provider:
+    name: aws
+    region: us-east-1
+
+functions:
+    main:
+        handler: handler.main

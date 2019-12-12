@@ -1,0 +1,23 @@
+{
+    "name": "pnpm-test-monorepo",
+    "version": "1.0.0",
+    "description": "testing pnpm packaging for docker or lambda",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/eletype/pnpm-test-monorepo.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/eletype/pnpm-test-monorepo/issues"
+    },
+    "homepage": "https://github.com/eletype/pnpm-test-monorepo#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "serverless": "^1.59.3"
+    }
+}
